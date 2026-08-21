@@ -27,12 +27,12 @@ Tkinter는 파이썬 표준 라이브러리이지만 일부 Linux 배포판은 �
 sudo apt-get install python3-tk
 ```
 
-# macOS (python.org 설치본이면 기본 포함, Homebrew라면)
+macOS (python.org 설치본이면 기본 포함, Homebrew라면)
 ```bash
 brew install python-tk
 ```
 
-# Windows: 공식 설치 프로그램에 기본 포함되어 있어 별도 작업 불필요
+Windows: 공식 설치 프로그램에 기본 포함되어 있어 별도 작업 불필요
 
 실행
 ```bash
