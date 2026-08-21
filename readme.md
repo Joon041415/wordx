@@ -28,10 +28,12 @@ sudo apt-get install python3-tk
 ```
 
 # macOS (python.org 설치본이면 기본 포함, Homebrew라면)
-```brew install python-tk
+```bash
+brew install python-tk
 ```
 
 # Windows: 공식 설치 프로그램에 기본 포함되어 있어 별도 작업 불필요
+
 실행
 ```bash
 py app.py
