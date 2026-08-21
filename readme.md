@@ -18,21 +18,24 @@ Python으로 만든 Word(.docx) 파일용 GUI 데스크톱 편집기입니다. T
 Python 3.9 이상 권장.
 
 ```bash
-```pip install python-docx pillow
-
+pip install python-docx pillow
+```
 Tkinter는 파이썬 표준 라이브러리이지만 일부 Linux 배포판은 별도 설치가 필요합니다.
 
 ```bash
 # Ubuntu/Debian
-```sudo apt-get install python3-tk
+sudo apt-get install python3-tk
+```
 
 # macOS (python.org 설치본이면 기본 포함, Homebrew라면)
 ```brew install python-tk
+```
 
 # Windows: 공식 설치 프로그램에 기본 포함되어 있어 별도 작업 불필요
 실행
 ```bash
-```py app.py
+py app.py
+```
 
 ##사용 팁
 문단 스타일과 정렬은 커서가 있는 줄(문단) 전체에 적용됩니다.
